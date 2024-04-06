@@ -3,6 +3,10 @@ from bs4 import BeautifulSoup
 import csv
 import os
 payload = {
+    #college data
+    "email":"ahmed.mohamed.ahady@gmail.com",
+    "password":"Zkr}z:'L~bk3A5@",
+    #waleedkassab data
     "email":"ahmed.mohamed.ahady@gmail.com",
     "password":"Zkr}z:'L~bk3A5@",
     "login":"login"
